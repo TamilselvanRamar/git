@@ -1,2 +1,3 @@
 This is Sample Readme file
-#Read me file updated in the subBranch1
+# this is from newbranch1 readmefile
+# new commit to main from newbranch1
