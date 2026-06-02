@@ -1,2 +1,2 @@
 This is Sample Readme file
-#Readme from newbranch2
+#Read me file updated in the subBranch1
